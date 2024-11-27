@@ -684,7 +684,7 @@
             "name": "Atlas #98",
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-153431.png"
         }
-    },
+    }, 
     {
         "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i97",
         "meta": {
@@ -1885,7 +1885,7 @@
     {
         "id": "6e1e0c2635bbf57b7284a80eee1c8ed19c09df72ef1c1fc8c8bcc783f661ebf9i2",
         "meta": {
-            "name": "Atlas #270",
+            "name": "Atlas #270", 
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-800724.png"
         }
     },
@@ -1908,7 +1908,7 @@
         "meta": {
             "name": "Atlas #273",
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-810882.png"
-        }
+        } 
     },
     {
         "id": "f91f518540c7ff8bf9f8c6423b57287c29e22f3bbb3ee295ddadbf26166921ddi117",
@@ -1922,14 +1922,14 @@
         "meta": {
             "name": "Atlas #275",
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-812682.png"
-        }
+        } 
     },
     {
         "id": "f91f518540c7ff8bf9f8c6423b57287c29e22f3bbb3ee295ddadbf26166921ddi119",
         "meta": {
             "name": "Atlas #276",
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-814497.png"
-        }
+        }  
     },
     {
         "id": "f91f518540c7ff8bf9f8c6423b57287c29e22f3bbb3ee295ddadbf26166921ddi120",
@@ -1947,7 +1947,7 @@
     },
     {
         "id": "f91f518540c7ff8bf9f8c6423b57287c29e22f3bbb3ee295ddadbf26166921ddi122",
-        "meta": {
+        "meta": { 
             "name": "Atlas #279",
             "image": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-819138.png"
         }
